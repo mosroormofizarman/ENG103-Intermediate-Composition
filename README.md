@@ -116,11 +116,8 @@ By the end of this course, students will be able to:
 ## 📈 Course Schedule Highlights
 
 - **Week 1-4:** Essay writing fundamentals, descriptive essays, reading skills
-- **June 19, 2015:** Mid-Term I
 - **Week 5-8:** Summary writing, narrative essays, comparative and contrast essays
-- **July 10, 2015:** Mid-Term II
 - **Week 9-12:** Process essays, cause and effect analysis, grammar editing
-- **August 14, 2015:** Final Exam
 
 ---
 
