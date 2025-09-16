@@ -23,7 +23,7 @@ This repository is organized into the following folders:
 
 - **Course Code:** ENG103  
 - **Course Title:** Intermediate Composition  
-- **Instructor:** [Nausheen Siraj](https://www.northsouth.edu/faculty-members/shss/eml/nausheen.siraj.html)  
+- **Instructor:** [Nausheen Siraj[Nsj]](https://www.northsouth.edu/faculty-members/shss/eml/nausheen.siraj.html)  
 - **Department:** English and Modern Languages  
 - **Program:** Undergraduate  
 - **Semester:** **Fall 2019**  
@@ -123,7 +123,7 @@ By the end of this course, students will be able to:
 
 ## 👩‍🏫 Instructor Details
 
-- **Name:** [Nausheen Siraj](https://www.northsouth.edu/faculty-members/shss/eml/nausheen.siraj.html)  
+- **Name:** [Nausheen Siraj[Nsj]](https://www.northsouth.edu/faculty-members/shss/eml/nausheen.siraj.html)  
 - **Department:** English and Modern Languages  
 - **Institution:** North South University  
 
